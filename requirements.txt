@@ -1,0 +1,6 @@
+uvicorn
+litestar
+selectolax
+pycryptodome
+requests
+aiohttp
